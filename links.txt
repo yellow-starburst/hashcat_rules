@@ -1,0 +1,2 @@
+https://github.com/NSAKEY/nsa-rules
+https://raw.githubusercontent.com/skim-milk/scrap/master/hashes/rules/5-cleaned.rule
